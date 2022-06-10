@@ -14,6 +14,7 @@ function getDate()
     return day;
 }
 
+
 module.exports.getDay=getDay;
 
 function getDay() {
